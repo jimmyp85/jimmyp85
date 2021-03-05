@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JimmyWeb</title>
+<style>
+body {
+  background: rgb(42,70,112);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1	{
+	Text-Align: Center;
+	}
+
+ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      Text-Align: Center;
+    }
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+
+</style>
+</head>
+<body>
+
+<h1>Jimmy P's Website</h1>
+    <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Page3</a></li>
+      <li><a href="#">Page4</a></li>
+    </ul>
+<article>
+<p2>At somepoint this will all work. Just playing around at the moment.</p2>
+</article>
+
+
+</body>
+</html>
